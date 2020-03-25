@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CB582938-FC1E-4743-B546-237201636F13}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MB_Üretim_Planlama_Ve_Kontrol_v3._0</RootNamespace>
+    <AssemblyName>MB Üretim Planlama Ve Kontrol v3.0</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>MB.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DolaşımAkışÇizelgeleme1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DolaşımAkışÇizelgeleme1.Designer.cs">
+      <DependentUpon>DolaşımAkışÇizelgeleme1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DolaşımAkışÇizelgeleme2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DolaşımAkışÇizelgeleme2.Designer.cs">
+      <DependentUpon>DolaşımAkışÇizelgeleme2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SiparişPartiBüyüklüğü.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparişPartiBüyüklüğü.Designer.cs">
+      <DependentUpon>SiparişPartiBüyüklüğü.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İhtiyaçHesapla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İhtiyaçHesapla.Designer.cs">
+      <DependentUpon>İhtiyaçHesapla.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DolaşımAkışÇizelgeleme1.resx">
+      <DependentUpon>DolaşımAkışÇizelgeleme1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DolaşımAkışÇizelgeleme2.resx">
+      <DependentUpon>DolaşımAkışÇizelgeleme2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SiparişPartiBüyüklüğü.resx">
+      <DependentUpon>SiparişPartiBüyüklüğü.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İhtiyaçHesapla.resx">
+      <DependentUpon>İhtiyaçHesapla.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MB.ico" />
+    <None Include="Resources\appbar.close %282%29.png" />
+    <None Include="Resources\appbar.clear.inverse %282%29.png" />
+    <None Include="Resources\Başlıksız-1.png" />
+    <None Include="Resources\Üretim Planlama Kontrol Logo.png" />
+    <None Include="Resources\Codia Logo.png" />
+    <None Include="Resources\appbar.close.png" />
+    <None Include="Resources\appbar.card.2.png" />
+    <None Include="Resources\appbar.card.1.png" />
+    <None Include="Resources\appbar.box.layered.png" />
+    <None Include="Resources\appbar.3d.collada.png" />
+    <None Include="Resources\01 - Logo 2017.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\21.jpg" />
+    <None Include="Resources\113.jpg" />
+    <None Include="Resources\2.jpg" />
+    <None Include="Resources\13.jpg" />
+    <None Include="Resources\1.jpg" />
+    <None Include="Resources\7.png" />
+    <None Include="Resources\8.PNG" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\1.png" />
+    <None Include="Resources\indir.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

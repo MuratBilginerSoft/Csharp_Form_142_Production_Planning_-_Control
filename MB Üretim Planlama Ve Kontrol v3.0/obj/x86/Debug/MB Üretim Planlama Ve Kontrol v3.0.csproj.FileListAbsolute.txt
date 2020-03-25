@@ -1,0 +1,38 @@
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\bin\Debug\MB Üretim Planlama Ve Kontrol v3.0.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\bin\Debug\MB Üretim Planlama Ve Kontrol v3.0.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.Form1.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.Properties.Resources.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.csproj.GenerateResource.Cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.csprojResolveAssemblyReference.cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.İhtiyaçHesapla.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.SiparişPartiBüyüklüğü.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.DolaşımAkışÇizelgeleme1.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\MB Üretim Planlama Ve Kontrol v3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.DolaşımAkışÇizelgeleme2.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.exe
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.pdb
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\bin\Debug\MB Üretim Planlama Ve Kontrol v3.0.exe
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\bin\Debug\MB Üretim Planlama Ve Kontrol v3.0.pdb
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.csprojResolveAssemblyReference.cache
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.DolaşımAkışÇizelgeleme1.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.DolaşımAkışÇizelgeleme2.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.Form1.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.Properties.Resources.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.SiparişPartiBüyüklüğü.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.İhtiyaçHesapla.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\bin\Debug\MB Üretim Planlama Ve Kontrol v3.0.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\bin\Debug\MB Üretim Planlama Ve Kontrol v3.0.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.DolaşımAkışÇizelgeleme1.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.DolaşımAkışÇizelgeleme2.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.Form1.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.SiparişPartiBüyüklüğü.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB_Üretim_Planlama_Ve_Kontrol_v3._0.İhtiyaçHesapla.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\21 - Üretim Planlama Ve Kontrol V3.0\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\06 - CODIA Production Planning & Control\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\06 - CODIA Production Planning & Control\MB Üretim Planlama Ve Kontrol v3.0\obj\x86\Debug\MB Üretim Planlama Ve Kontrol v3.0.pdb
